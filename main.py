@@ -3,7 +3,7 @@ from copy import deepcopy
 from random import choice, randrange
 
 W, H = 10, 20
-TILE = 45
+TILE = 40
 GAME_RES = W * TILE, H * TILE
 RES = 750, 940
 FPS = 60
